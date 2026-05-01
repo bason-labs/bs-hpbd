@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" width="240" height="320">
+  <defs>
+    <linearGradient id="cg2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fffaf0"/>
+      <stop offset="100%" stop-color="#ffe7b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="320" rx="14" fill="url(#cg2)"/>
+  <rect x="10" y="10" width="220" height="300" rx="10" fill="none" stroke="#e8a93a" stroke-width="2" stroke-dasharray="6 4"/>
+  <g transform="translate(120 130)">
+    <rect x="-44" y="-10" width="88" height="64" rx="4" fill="#d49b6e"/>
+    <path d="M-46 -16 Q-46 -42 -22 -44 Q-18 -56 -6 -52 Q6 -56 18 -52 Q40 -52 46 -32 Q56 -28 50 -10 Z" fill="#ffb6cf"/>
+    <rect x="-2" y="-58" width="4" height="14" fill="#fff"/>
+    <path d="M0 -64 Q-4 -58 0 -56 Q4 -58 0 -64" fill="#ff8a3d"/>
+  </g>
+  <text x="120" y="240" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#b86b1a" text-anchor="middle">Cheers!</text>
+  <text x="120" y="276" font-family="Georgia, serif" font-size="14" fill="#a07530" text-anchor="middle" font-style="italic">to another year ✿</text>
+</svg>

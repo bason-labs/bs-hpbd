@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Forces knife cursor during step-3 drag — overrides all element cursors */
+.knife-cursor,
+.knife-cursor * {
+  cursor: url('/cursur/knife.png') 8 0, crosshair !important;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { transform: scale(0.9); opacity: 0.6; }
+  50%       { transform: scale(1.3); opacity: 1;   }
+}
